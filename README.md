@@ -14,6 +14,16 @@ Give the command as below
 <br>
 <br>
 
+# Requirements
+
+## Required Accounts and Software
+
+Download ngrok from here https://ngrok.com/download and extract into the main folder.
+
+Please note that you need to create a account to get the authentication token for ngrok which is required.
+
+Open account at Twillow here -> https://www.twilio.com/try-twilio
+
 ## Required Libraries 
 <br>
 certifi==2019.9.11 <br>
@@ -31,3 +41,5 @@ six==1.13.0<br>
 twilio==6.33.1<br>
 urllib3==1.25.7<br>
 Werkzeug==0.16.0<br>
+
+
